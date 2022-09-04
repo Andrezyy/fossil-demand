@@ -18,4 +18,4 @@ The objective of this challenge is to build a forecasting or other predictive mo
 ---
 ### Platform: Zindi (https://zindi.africa/competitions/fossil-stock-forecasting-challenge)
 ### Type of Data: Time Series Data
-### Position: 55 out of 202 contestants
+### Position: 55 of 202
